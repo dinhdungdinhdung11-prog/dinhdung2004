@@ -4,7 +4,7 @@
 - 🎓 Đang học tập và phát triển tại **Duy Tan University, Đà Nẵng, Việt Nam**.
 - 💻 Ngôn ngữ & Công nghệ cốt lõi: **ReactJS, Node.js, Python (Django), PHP, MySQL, Tailwind CSS**.
 - 🎯 Định hướng: Xây dựng các hệ thống web tối ưu, giải quyết bài toán thực tế từ quy trình tuyển dụng đến giám sát môi trường.
-- 📫 Kết nối với mình qua LinkedIn: [Chèn Link LinkedIn của bạn vào đây]
+- 📫 Kết nối với mình qua LinkedIn: 
 
 ### 🛠 Tech Stack
 <p align="left">
@@ -25,6 +25,3 @@
 * **[Payroll Dashboard System](#)**: Hệ thống quản trị Cơ sở dữ liệu và xây dựng API RESTful cho nhân sự & tính lương.
 
 ### 📊 GitHub Stats
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=dinhdung2004&show_icons=true&theme=radium&hide_border=true" alt="GitHub stats" />
-</p>
